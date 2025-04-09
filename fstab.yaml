@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p114566-e1122348.adobeaemcloud.com/bin/franklin.delivery/Lvguangyuan/aem-edge/main"
+    url: "https://author-p114566-e1174278.adobeaemcloud.com/bin/franklin.delivery/Lvguangyuan/aem-edge/main"
     type: "markup"
     suffix: ".html"
