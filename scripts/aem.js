@@ -267,6 +267,7 @@ async function loadScript(src, attrs) {
       }
       script.onload = resolve;
       script.onerror = reject;
+      console.log("Loading script", src);
       document.head.append(script);
     } else {
       resolve();
